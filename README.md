@@ -8,3 +8,4 @@ Learning Django, A web framework
 			Then create virtualenv ---> virtualenv -p python3 .
 3. install django ---> (cfedjango) $ pip install django=2.0.7
 4. Run the application ---> python manage.py runserver
+5. Access ---? 127.0.0.1:8000/admin
